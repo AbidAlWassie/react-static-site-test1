@@ -1,1 +1,0 @@
-# react-static-site-test1
